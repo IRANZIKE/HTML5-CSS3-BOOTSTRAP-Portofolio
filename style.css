@@ -1,0 +1,104 @@
+
+
+
+/* Write your CSS below, don't change the rules above. */
+
+p{
+  color: black;
+  font-weight: normal;
+}
+
+.
+}
+
+.pfull{
+  font-size: 20px;
+  margin-top: 20px;
+  font-family: arial, sans-serif;
+}
+.img-fluid{
+  margin-top: 12px;
+}
+#hero{
+   background: linear-gradient(300deg, #00bfff, #ff4c68, #ef8172);
+  animation: gradient-animation 18s ease infinite;
+}
+
+.picture{
+  border-radius: 50%;
+}
+.title{
+  text-align: center;
+  font-size: 2rem;
+  color: blue;
+  font-weight: bold;
+}
+  
+.tittle{
+  font-size: 15px;
+  font-weight: normal;
+  text-align: center;
+}
+.imagep{
+  float: left;
+height: 200px;
+margin-right: 50px
+}
+ 
+  
+
+.parent {
+  display: grid;
+  grid-template-columns: 0.5fr 0.5fr;
+  grid-template-rows: repeat(1fr, 1fr);
+  width: 90%;
+  row-gap: 8rem;
+  margin-bottom: 10px;
+}
+
+.images{
+  width: 50px;
+}
+
+.footer{
+  background-color: blueviolet;
+  text-align: center;
+  height: 50px;
+}
+
+.bottom-container{
+  background-color: #66bfbf;
+padding: 50px 20px;
+text-align: center;
+
+}
+@media (max-width: 800px) and (min-width:200px) {
+  .images {
+    width: 100px;
+
+}
+.btn{
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  background: #11cdd4;
+  border-radius: 8px;
+ font-size: 20px;
+ text-decoration: none;
+ padding: 20px 20px;
+}
+
+
+
+
+  
+
+  
+
+
+
+
+
+
+  
+
+
+
